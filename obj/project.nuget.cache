@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "cAtdvTLG/Hn/W54qdoo+h3zfGBPz0g2hJCAFd/yChjC8KwVcXF9VFkdMjibHLr0wBl7ivQHceSa0fra50qRcPw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects_automation\\CSharp_training\\SeleniumTraining\\SauceDemoAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caiom\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.1\\microsoft.net.test.sdk.17.7.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.7.1\\microsoft.testplatform.objectmodel.17.7.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\microsoft.testplatform.testhost\\17.7.1\\microsoft.testplatform.testhost.17.7.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\selenium.support\\4.11.0\\selenium.support.4.11.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\selenium.webdriver\\4.11.0\\selenium.webdriver.4.11.0.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\selenium.webdriver.chromedriver\\116.0.5845.9600\\selenium.webdriver.chromedriver.116.0.5845.9600.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\caiom\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
